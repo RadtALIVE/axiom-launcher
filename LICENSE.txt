@@ -1,0 +1,35 @@
+HORIZON LAUNCHER PROPRIETARY LICENSE
+Copyright (c) 2026 Star®. All rights reserved.
+
+This license applies to the Horizon Launcher name, branding, documentation,
+website materials, and official application binaries distributed with this
+product, except where a separate written license accompanies a component.
+
+You may download and run an unmodified official binary for your personal,
+non-commercial use. This permission does not transfer ownership or grant any
+other rights.
+
+Unless Star® gives you prior written permission, you may not:
+
+1. Copy, modify, adapt, translate, or create derivative works from the
+   application, its branding, or product materials.
+2. Redistribute, publish, sell, sublicense, rent, or otherwise provide copies
+   of the application or its materials to another person.
+3. Reverse engineer, decompile, or disassemble the application, except to the
+   extent applicable law expressly permits despite this restriction.
+4. Remove or alter copyright, trademark, attribution, or other legal notices.
+5. Use the Star® or Horizon Launcher names, logos, or marks to imply affiliation,
+   endorsement, or origin without written permission.
+
+The application is provided “as is” to the maximum extent permitted by law.
+To the maximum extent permitted by law, Star® disclaims warranties and is not
+liable for indirect, incidental, special, or consequential damages arising
+from use of the application. Nothing in this license limits rights or remedies
+that cannot legally be limited or excluded.
+
+This license does not grant rights to third-party software, trademarks, or
+services included, referenced, or accessed by the application. Those remain
+subject to their respective owners' terms.
+
+For written permission or licensing questions, contact Star® through the
+official Horizon Launcher project channels.

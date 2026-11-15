@@ -1,44 +1,62 @@
-# Horizon Launcher
-
-### Your games, together.
-
-Horizon Launcher by Star® is a Windows desktop app preview for keeping your PC game library, collections, and play plans in one place.
-
-This repository is the official download and release hub. It contains release information and the product site; Horizon Launcher’s application source code is not published here.
+<p align="center">
+  <img src="docs/brand/horizon-mark.svg" width="72" alt="Horizon Launcher mark">
+</p>
 
 <p align="center">
-  <a href="https://github.com/RadtALIVE/horizon-launcher/releases/download/v0.2.0-preview.1/Horizon-Launcher-Setup-0.2.0-x64.exe"><strong>⬇ Download the Windows installer</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://radtalive.github.io/horizon-launcher/">Visit the Horizon site</a>
+  <img src="docs/brand/readme-banner.svg" alt="Horizon Launcher — your games, together">
 </p>
+
+<p align="center">
+  <strong>Your games, together.</strong><br>
+  A calmer home for your PC game library.
+</p>
+
+<p align="center">
+  <a href="https://github.com/RadtALIVE/horizon-launcher/releases/download/v0.2.0-preview.1/Horizon-Launcher-Setup-0.2.0-x64.exe"><strong>Download for Windows</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/RadtALIVE/horizon-launcher/releases/tag/v0.2.0-preview.1">Release notes</a>
+  &nbsp; · &nbsp;
+  <a href="https://radtalive.github.io/horizon-launcher/">Product site</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-x64-5865F2?style=flat-square" alt="Windows x64">
+  <img src="https://img.shields.io/badge/Preview-0.2.0-8B7CF6?style=flat-square" alt="Preview 0.2.0">
+  <img src="https://img.shields.io/badge/License-Proprietary-25242B?style=flat-square" alt="Proprietary license">
+</p>
+
+## A better place to start playing
+
+Horizon Launcher brings game shelves, collections, and detailed game pages into one lightweight Windows app. Browse a sample library, shape your home screen, and explore the launcher’s planned store connections.
+
+### What’s in the preview
+
+- **Home shelves** for recommendations, your library, and collections.
+- **Game pages** for descriptions, genres, studios, and ownership details.
+- **A clean, light-first interface** with grid and list browsing.
+- **Personalization and accessibility** controls for text size, contrast, motion, and visual effects.
+- **Steam and Epic connection screens** ready for their future official sign-in flows.
 
 ## Install
 
-1. Download and run [Horizon Launcher Setup for Windows x64](https://github.com/RadtALIVE/horizon-launcher/releases/download/v0.2.0-preview.1/Horizon-Launcher-Setup-0.2.0-x64.exe).
-2. Choose an install folder and whether to add a desktop shortcut.
-3. Finish setup; Horizon can launch immediately and is also available from the Start Menu.
+1. Download the [Windows x64 installer](https://github.com/RadtALIVE/horizon-launcher/releases/download/v0.2.0-preview.1/Horizon-Launcher-Setup-0.2.0-x64.exe).
+2. Run setup and choose an install folder and optional desktop shortcut.
+3. Finish setup; Horizon is also available from the Start Menu.
 
-The installer is per-user and does not require administrator access. App settings and collections are kept in `%APPDATA%\Horizon Launcher`; uninstalling the app leaves that folder intact.
+The installer is per-user and does not require administrator access. Settings and collections are stored in `%APPDATA%\Horizon Launcher`. Uninstalling leaves that data folder intact.
 
-## In this preview
+## Preview status
 
-- A light-first desktop interface with game shelves, library, collections, and detailed game profiles.
-- Steam and Epic Games connection screens, ready for their future official sign-in flows.
-- Accessibility settings for text size, contrast, motion, and visual effects.
-- A separate website with product information and release links.
+Star® sign-in, email verification, Steam/Epic account linking, live library sync, ownership checks, update detection, downloads, and game launching are still being set up. This preview displays sample games. Horizon does not bypass store ownership or DRM.
 
-## Still being set up
+## Get help
 
-Star® sign-in, email verification, Steam/Epic linking, real library sync, ownership checks, updates, downloads, and game launching are not active yet. The preview uses sample game entries. It does not bypass store ownership or DRM.
+Browse the [release hub](https://github.com/RadtALIVE/horizon-launcher/releases), visit the [product site](https://radtalive.github.io/horizon-launcher/), or [report a problem](https://github.com/RadtALIVE/horizon-launcher/issues). Please don’t post passwords, account details, or private user data.
 
-## Release notes
+## License
 
-Each version’s notes and Windows downloads are listed on the [Releases page](https://github.com/RadtALIVE/horizon-launcher/releases).
-
-## Need help?
-
-Use [Issues](https://github.com/RadtALIVE/horizon-launcher/issues) to report a problem or suggest a feature. Please do not post passwords, account details, or private user data.
+Horizon Launcher is distributed under a custom proprietary license. All rights are reserved; see [`LICENSE.txt`](LICENSE.txt) for the terms. This is not an open-source license.
 
 ---
 
-**Horizon Launcher by Star®** · Windows desktop preview · © Star®
+<p align="center"><sub>Horizon Launcher by Star® · © 2026 Star®</sub></p>
