@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Preview-0.2.0-8B7CF6?style=flat-square" alt="Preview 0.2.0">
   <img src="https://img.shields.io/badge/License-Proprietary-25242B?style=flat-square" alt="Proprietary license">
 </p>
-
+## Powered by https://www.axiom-systems.org/
 ## A better place to start playing
 
 Horizon Launcher brings game shelves, collections, and detailed game pages into one lightweight Windows app. Browse a sample library, shape your home screen, and explore the launcher’s planned store connections.
