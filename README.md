@@ -7,16 +7,18 @@ Horizon Launcher by Star® is a Windows desktop app preview for keeping your PC 
 This repository is the official download and release hub. It contains release information and the product site; Horizon Launcher’s application source code is not published here.
 
 <p align="center">
-  <a href="https://github.com/RadtALIVE/horizon-launcher/releases/download/v0.2.0-preview.1/Horizon-Launcher-0.2.0-Windows-x64.zip"><strong>⬇ Download the Windows preview</strong></a>
+  <a href="https://github.com/RadtALIVE/horizon-launcher/releases/download/v0.2.0-preview.1/Horizon-Launcher-Setup-0.2.0-x64.exe"><strong>⬇ Download the Windows installer</strong></a>
   &nbsp; · &nbsp;
   <a href="https://radtalive.github.io/horizon-launcher/">Visit the Horizon site</a>
 </p>
 
 ## Install
 
-1. Download the [Windows x64 preview ZIP](https://github.com/RadtALIVE/horizon-launcher/releases/download/v0.2.0-preview.1/Horizon-Launcher-0.2.0-Windows-x64.zip).
-2. Extract the ZIP to a folder on your PC.
-3. Run **Horizon Launcher.exe** from the extracted folder. Keep the other files beside it.
+1. Download and run [Horizon Launcher Setup for Windows x64](https://github.com/RadtALIVE/horizon-launcher/releases/download/v0.2.0-preview.1/Horizon-Launcher-Setup-0.2.0-x64.exe).
+2. Choose an install folder and whether to add a desktop shortcut.
+3. Finish setup; Horizon can launch immediately and is also available from the Start Menu.
+
+The installer is per-user and does not require administrator access. App settings and collections are kept in `%APPDATA%\Horizon Launcher`; uninstalling the app leaves that folder intact.
 
 ## In this preview
 
