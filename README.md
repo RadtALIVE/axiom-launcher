@@ -14,16 +14,16 @@
 <p align="center"><strong>⚠ BETA PROGRAM</strong> · Horizon is in active development; features and behavior may change.</p>
 
 <p align="center">
-  <a href="https://github.com/RadtALIVE/horizon-launcher/releases/download/v0.2.0-preview.1/Horizon-Launcher-Setup-0.2.0-x64.exe"><strong>Download for Windows</strong></a>
+  <a href="https://github.com/RadtALIVE/horizon-launcher/releases/download/v0.2.1/Horizon-Launcher-Setup-0.2.1-x64.exe"><strong>Download the beta for Windows</strong></a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/RadtALIVE/horizon-launcher/releases/tag/v0.2.0-preview.1">Release notes</a>
+  <a href="https://github.com/RadtALIVE/horizon-launcher/releases/tag/v0.2.1">Release notes</a>
   &nbsp; · &nbsp;
   <a href="https://radtalive.github.io/horizon-launcher/">Product site</a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-x64-5865F2?style=flat-square" alt="Windows x64">
-  <img src="https://img.shields.io/badge/BETA_PROGRAM-0.2.0-8B7CF6?style=flat-square" alt="Horizon Launcher beta program 0.2.0">
+  <img src="https://img.shields.io/badge/BETA_PROGRAM-0.2.1-8B7CF6?style=flat-square" alt="Horizon Launcher beta program 0.2.1">
   <img src="https://img.shields.io/badge/License-Proprietary-25242B?style=flat-square" alt="Proprietary license">
 </p>
 ## A better place to start playing
@@ -36,11 +36,12 @@ Horizon Launcher brings game shelves, collections, and detailed game pages into 
 - **Game pages** for descriptions, genres, studios, and ownership details.
 - **A clean, light-first interface** with grid and list browsing.
 - **Personalization and accessibility** controls for text size, contrast, motion, and visual effects.
+- **Automatic launcher update checks** at startup, with in-app download and restart controls.
 - **Steam and Epic connection screens** ready for their future official sign-in flows.
 
 ## Install
 
-1. Download the [Windows x64 installer](https://github.com/RadtALIVE/horizon-launcher/releases/download/v0.2.0-preview.1/Horizon-Launcher-Setup-0.2.0-x64.exe).
+1. Download the [Windows x64 installer](https://github.com/RadtALIVE/horizon-launcher/releases/download/v0.2.1/Horizon-Launcher-Setup-0.2.1-x64.exe).
 2. Run setup and choose an install folder and optional desktop shortcut.
 3. Finish setup; Horizon is also available from the Start Menu.
 
