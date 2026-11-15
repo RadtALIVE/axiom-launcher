@@ -1,4 +1,4 @@
-name: Publish Horizon site
+name: Publish Axiom site
 
 on:
   push:

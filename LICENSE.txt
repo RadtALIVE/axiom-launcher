@@ -1,7 +1,7 @@
-HORIZON LAUNCHER PROPRIETARY LICENSE
+AXIOM LAUNCHER PROPRIETARY LICENSE
 Copyright (c) 2026 Star®. All rights reserved.
 
-This license applies to the Horizon Launcher name, branding, documentation,
+This license applies to the Axiom name, branding, documentation,
 website materials, and official application binaries distributed with this
 product, except where a separate written license accompanies a component.
 
@@ -18,7 +18,7 @@ Unless Star® gives you prior written permission, you may not:
 3. Reverse engineer, decompile, or disassemble the application, except to the
    extent applicable law expressly permits despite this restriction.
 4. Remove or alter copyright, trademark, attribution, or other legal notices.
-5. Use the Star® or Horizon Launcher names, logos, or marks to imply affiliation,
+5. Use the Star® or Axiom names, logos, or marks to imply affiliation,
    endorsement, or origin without written permission.
 
 The application is provided “as is” to the maximum extent permitted by law.
@@ -32,4 +32,4 @@ services included, referenced, or accessed by the application. Those remain
 subject to their respective owners' terms.
 
 For written permission or licensing questions, contact Star® through the
-official Horizon Launcher project channels.
+official Axiom project channels.
