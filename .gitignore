@@ -1,0 +1,13 @@
+node_modules/
+dist/
+release/
+*.log
+.env
+.env.*
+!.env.example
+*.p12
+*.pem
+*.key
+*.secret
+Thumbs.db
+Desktop.ini
