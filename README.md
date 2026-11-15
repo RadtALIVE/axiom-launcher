@@ -58,4 +58,4 @@ Horizon Launcher is distributed under a custom proprietary license. All rights a
 
 ---
 
-<p align="center"><sub>Horizon Launcher by Star® · © 2026 Star®</sub></p>
+<p align="center"><sub>Horizon Launcher by Star® · © 2026 Star®<br>Powered by <a href="https://www.axiom-systems.org/">Axiom Systems</a></sub></p>
