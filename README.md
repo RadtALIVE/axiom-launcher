@@ -63,3 +63,4 @@ Axiom is distributed under a custom proprietary license. All rights are reserved
 ---
 
 <p align="center"><sub>Axiom by Star® · © 2026 Star®<br>Powered by <a href="https://www.axiom-systems.org/">Axiom Systems</a></sub></p>
+Contributed by RadtALIVE, Axiom-systems, Star®
